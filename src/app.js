@@ -1,8 +1,8 @@
 ﻿export class Welcome{
   constructor(){
     this.heading = 'Welcome to the Aurelia Navigation App!';
-    this.firstName = 'John';
-    this.lastName = 'Doe';
+    this.firstName = 'Peter';
+    this.lastName = 'Pim';
   }
 
   get fullName(){
